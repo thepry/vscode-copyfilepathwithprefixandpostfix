@@ -2,6 +2,8 @@
   "name": "copyfilepathwithprefixandpostfix",
   "displayName": "CopyFilePathWithPrefixAndPostfix",
   "description": "Allows to add custom text before and after the file path when copying it into clipboard.",
+  "repository": "https://github.com/thepry/vscode-copyfilepathwithprefixandpostfix",
+  "publisher": "eugene-zvg",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
